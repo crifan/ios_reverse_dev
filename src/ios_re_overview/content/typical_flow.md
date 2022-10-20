@@ -31,7 +31,7 @@
         * 命令行方式
           * debugserver + lldb
         * GUI图形界面方式
-          * XCode + MonkeyDev
+          * Xcode + MonkeyDev
             * lldb
     * 写hook插件
       * 再去调试和验证

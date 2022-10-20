@@ -57,9 +57,9 @@
 * 动态调试
   * 用各种调试方式和工具去调试app的逻辑
     * 常用调试方式
-      * 图形界面：`XCode`+`MonkeyDev`
+      * 图形界面：`Xcode`+`MonkeyDev`
         * ![xcode_monkeydev_youtube](../../assets/img/xcode_monkeydev_youtube.jpg)
-        * XCode内部也有`lldb`
+        * Xcode内部也有`lldb`
       * 命令行：`debugserver`+`lldb`
         * ![debugserver_lldb_aweme](../../assets/img/debugserver_lldb_aweme.jpg)
     * 常用逆向工具
@@ -82,7 +82,7 @@
       * `Theos`/`Logos`：写hook源码.xm，基于Makefile去编译
         * ![logos_vscode_make](../../assets/img/logos_vscode_make.png)
     * 图形界面
-      * `iOSOpenDev`：把Logos等开发集成进了XCode
+      * `iOSOpenDev`：把Logos等开发集成进了Xcode
         * 支持Logos、CaptainHook等
         * ![iosopendev_xcode_create](../../assets/img/iosopendev_xcode_create.png)
       * `MonkeyDev`：iOSOpenDev的改进版
