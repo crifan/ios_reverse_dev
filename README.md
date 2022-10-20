@@ -13,7 +13,7 @@
 
 ### HonKit源码
 
-* [crifan/ios_reverse_dev: iOS逆向开发](https://gitee.com/crifan/ios_reverse_dev)
+* [crifan/ios_reverse_dev: iOS逆向开发](https://github.com/crifan/ios_reverse_dev)
 
 #### 如何使用此HonKit源码去生成发布为电子书
 
