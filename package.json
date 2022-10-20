@@ -1,0 +1,36 @@
+{
+  "name": "honkit_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "honkit": "^3.7.1"
+  },
+  "dependencies": {
+    "gitbook-plugin-anchors": "^0.7.1",
+    "gitbook-plugin-callouts": "^0.1.1",
+    "gitbook-plugin-chapter-fold": "^0.0.4",
+    "gitbook-plugin-copy-code-button": "^0.0.2",
+    "gitbook-plugin-disqus": "^1.0.1",
+    "gitbook-plugin-donate": "^1.0.2",
+    "gitbook-plugin-expandable-menu": "^0.2.0",
+    "gitbook-plugin-folding-chapters-2": "^0.1.2",
+    "gitbook-plugin-github-buttons": "^3.0.0",
+    "gitbook-plugin-prism": "^2.4.0",
+    "gitbook-plugin-prism-themes": "^0.0.2",
+    "gitbook-plugin-search-plus": "^1.0.4-alpha-3",
+    "gitbook-plugin-sharing-plus": "^0.0.2",
+    "gitbook-plugin-sitemap-general": "^0.1.1",
+    "gitbook-plugin-splitter-nosessionbutcookie": "^0.0.2",
+    "gitbook-plugin-tbfed-pagefooter": "^0.0.1",
+    "gitbook-plugin-theme-comscore": "^0.0.3",
+    "gitbook-plugin-toggle-chapters": "^0.0.3",
+    "gitbook-plugin-toolbar-button": "^0.0.1"
+  }
+}

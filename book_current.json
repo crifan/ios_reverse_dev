@@ -1,0 +1,19 @@
+{
+  "title": "iOS逆向开发",
+  "description": "概述如何进行iOS的逆向开发，包括核心流程，即先准备iPhone越狱，再到从app中砸壳出ipa，再到静态分析ipa中二进制，以及动态调试ipa，最后才是相关的iOS逆向开发内容，包括tweak越狱插件开发等内容。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "ios_reverse_dev"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/ios_reverse_dev/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/ios_reverse_dev/pdf/ios_reverse_dev.pdf"
+    }
+  }
+}
