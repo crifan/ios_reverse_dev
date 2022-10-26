@@ -3,30 +3,42 @@
 上述所有和iOS逆向开发相关的内容，分别整理到多个独立的子教程以及相关内容：
 
 * 系列
-  * iOS逆向之前，先要给iOS设备越狱
-    * [iOS逆向开发：iPhone越狱 crifan.org](https://book.crifan.org/books/ios_re_iphone_jailbreak/website/)
-      * 包括iPhone管理：插件的安装和卸载、文件管理等
-  * 然后再去静态分析
-    * 【整理Book】iOS逆向开发：静态分析
-  * 以及动态调试
-    * 【整理Book】iOS逆向开发：动态调试
-  * 往往涉及到如何用`Theos`/`iOSOpenDev`/`MonkeyDev`开发越狱插件，实现特定功能
-    * [iOS逆向开发：越狱插件开发 crifan.org](https://book.crifan.org/books/ios_re_jailbreak_tweak/website/)
-  * 也常涉及到正向的越狱检测和逆向的反越狱检测
-    * 【整理Book】iOS逆向开发：越狱检测和反越狱检测
-  * 往往涉及到iOS底层知识
-    * 【整理Book】iOS逆向开发：Block的相关基础知识
-    * 【整理Book】iOS逆向开发：ObjC运行时Runtime
-  * 以及相关常用的资料
-    * 【整理Book】iOS逆向开发：Apple苹果相关开发资料
+  * iOS逆向基本流程
+    * iOS逆向之前，先要给iOS设备越狱
+      * [iOS逆向开发：iPhone越狱 (crifan.org)](https://book.crifan.org/books/ios_re_iphone_jailbreak/website/)
+    * 然后再去砸壳出ipa文件
+      * [iOS逆向开发：砸壳ipa (crifan.org)](https://book.crifan.org/books/ios_re_crack_shell_ipa/website/)
+    * 然后再去静态分析
+      * [iOS逆向开发：静态分析 (crifan.org)](https://book.crifan.org/books/ios_re_static_analysis/website/)
+    * 以及动态调试
+      * [iOS逆向开发：动态调试 (crifan.org)](https://book.crifan.org/books/ios_re_dynamic_debug/website/)
+        * 【整理Book】iOS逆向开发：MonkeyDev调试
+  * iOS逆向常涉及领域
+    * 如何用`Theos`/`iOSOpenDev`/`MonkeyDev`开发越狱插件，实现特定功能
+      * [iOS逆向开发：越狱插件开发 crifan.org](https://book.crifan.org/books/ios_re_jailbreak_tweak/website/)
+    * 正向的越狱检测和逆向的反越狱检测
+      * [iOS逆向开发：越狱检测和反越狱检测 (crifan.org)](https://book.crifan.org/books/ios_re_jb_detection/website/)
+    * iOS底层机制和原理
+      * [iOS逆向开发：iOS底层机制 (crifan.org)](https://book.crifan.org/books/ios_re_ios_internal/website/)
+        * [iOS逆向开发：ObjC运行时Runtime (crifan.org)](https://book.crifan.org/books/ios_re_objc_runtime/website/)
+        * [iOS逆向开发：Block匿名函数 (crifan.org)](https://book.crifan.org/books/ios_re_objc_block/website/)
+  * iOS逆向具体实例
+    * 【整理Book】iOS逆向开发：Youtube逆向
+      * 【整理Book】iOS逆向YouTube：protobuf逆向
+    * 【整理Book】iOS逆向开发：抖音逆向
 * 相关
+  * IDA
+    * [逆向利器：IDA (crifan.org)](https://book.crifan.org/books/reverse_tool_ida/website/)
   * 汇编
-    * 汇编通用
+    * 通用
       * 【整理Book】底层编程语言：汇编语言asm
-    * ARM汇编
+    * ARM
       * [最流行汇编语言：ARM crifan.org](https://book.crifan.org/books/popular_assembly_arm/website/)
   * Xcode
-    * 【整理Book】Xcode内置调试器：LLDB
-    * 【整理Book】Xcode开发：调试心得
-  * IDA
-    * 【整理Book】逆向利器：IDA Pro
+    * 【整理Book】XCode开发心得
+      * [Xcode内置调试器：LLDB (crifan.org)](https://book.crifan.org/books/xcode_debugger_lldb/website/)
+      * 【整理Book】Xcode开发：调试心得
+  * iOS
+    * 【整理Book】iOS开发心得
+  * C
+    * 【整理book】C语言开发心得和常用代码段
