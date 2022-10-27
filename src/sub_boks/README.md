@@ -23,7 +23,7 @@
         * [iOS逆向开发：ObjC运行时Runtime (crifan.org)](https://book.crifan.org/books/ios_re_objc_runtime/website/)
         * [iOS逆向开发：Block匿名函数 (crifan.org)](https://book.crifan.org/books/ios_re_objc_block/website/)
   * iOS逆向具体实例
-    * 【整理Book】iOS逆向开发：Youtube逆向
+    * [iOS逆向开发：YouTube逆向 (crifan.org)](https://book.crifan.org/books/ios_re_youtube_reverse/website/)
       * 【整理Book】iOS逆向YouTube：protobuf逆向
     * 【整理Book】iOS逆向开发：抖音逆向
 * 相关

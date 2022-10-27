@@ -49,8 +49,10 @@
       * `otool`
       * `jtool2`
       * `rabin2`
+    * 恢复符号表
+      * `restore-symbol`
     * 分析代码逻辑
-      * IDA：Functions、Strings、Imports、F5伪代码等好用的功能模块
+      * IDA：Functions、Strings、Imports、F5伪代码、导出全部伪代码等好用的功能和模块
         * ![ida_youtube](../../assets/img/ida_youtube.jpg)
       * Hopper
         * ![hooper_youtube](../../assets/img/hooper_youtube.jpg)
@@ -65,10 +67,11 @@
     * 常用逆向工具
       * `Frida`：hook对应函数，调试输入参数和返回值
         * ![frida_aweme](../../assets/img/frida_aweme.jpg)
-      * `Cycript`：查看页面元素的类和属性、实时修改各种值
-        * ![cycript_debug_ui](../../assets/img/cycript_debug_ui.png)
-      * `Reveal`：查看UI页面详细属性
-        * ![reveal_debug_ui_youtube](../../assets/img/reveal_debug_ui_youtube.png)
+      * 分析界面元素
+        * `Cycript`：查看页面元素的类和属性、实时修改各种值
+          * ![cycript_debug_ui](../../assets/img/cycript_debug_ui.png)
+        * `Reveal`：查看UI页面详细属性
+          * ![reveal_debug_ui_youtube](../../assets/img/reveal_debug_ui_youtube.png)
   * 目的：搞懂我们所关心的app内部相关逻辑
     * 用于后续去写hook代码去修改成我们要的逻辑和值
 * 最后才是：Tweak插件开发
