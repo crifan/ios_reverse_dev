@@ -43,4 +43,4 @@
     * Xcode
       * 【整理Book】XCode开发心得
         * [Xcode内置调试器：LLDB (crifan.org)](https://book.crifan.org/books/xcode_debugger_lldb/website/)
-        * 【整理Book】Xcode开发：调试心得
+        * [Xcode开发：调试心得 (crifan.org)](http://book.crifan.org/books/xcode_dev_debug_summary/website/)
