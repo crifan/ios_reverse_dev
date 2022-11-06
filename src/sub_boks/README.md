@@ -45,9 +45,13 @@
         * [Xcode内置调试器：LLDB (crifan.org)](https://book.crifan.org/books/xcode_debugger_lldb/website/)
         * [Xcode开发：调试心得 (crifan.org)](http://book.crifan.org/books/xcode_dev_debug_summary/website/)
   * 代码
-    * iOS逆向改机：配合测试的app
-      * [crifan/ShowSystemInfo: iOS的app，检测并显示iOS的iPhone的系统信息](https://github.com/crifan/ShowSystemInfo)
-    * iOS正向：越狱检测
-      * [crifan/iOSJailbreakDetection: iOS的ObjC的app，实现iOS越狱检测](https://github.com/crifan/iOSJailbreakDetection)
-    * iOS逆向：反越狱检测
-      * [crifan/iOSBypassJailbreak: 越狱iOS的hook插件，实现反越狱检测](https://github.com/crifan/iOSBypassJailbreak)
+    * iOS正向
+      * 越狱检测
+        * [crifan/iOSJailbreakDetection: iOS的ObjC的app，实现iOS越狱检测](https://github.com/crifan/iOSJailbreakDetection)
+      * 配合测试(iOS逆向改机)的app
+        * [crifan/ShowSystemInfo: iOS的app，检测并显示iOS的iPhone的系统信息](https://github.com/crifan/ShowSystemInfo)
+    * iOS逆向
+      * 反越狱检测
+        * [crifan/iOSBypassJailbreak: 越狱iOS的hook插件，实现反越狱检测](https://github.com/crifan/iOSBypassJailbreak)
+      * 逆向YouTube
+        * [crifan/iOSYouTubeAdsFilter: MonkeyDev+Xcode项目，iOS逆向YouTube，尝试实现广告过滤功能](https://github.com/crifan/iOSYouTubeAdsFilter)
