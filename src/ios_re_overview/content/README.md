@@ -34,7 +34,7 @@
   * 下面分别详细解释：
 * 静态分析
   * 从脱壳ipa解压得到app包
-    * 用class-dump导出头文件
+    * 用`class-dump`导出头文件
       * ![headers_youtube](../../assets/img/headers_youtube.jpg)
       * 以搞懂包含哪些类
     * 查看二进制信息

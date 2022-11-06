@@ -12,7 +12,7 @@
       * [iOS逆向开发：静态分析 (crifan.org)](https://book.crifan.org/books/ios_re_static_analysis/website/)
     * 以及动态调试
       * [iOS逆向开发：动态调试 (crifan.org)](https://book.crifan.org/books/ios_re_dynamic_debug/website/)
-        * 【整理Book】iOS逆向开发：MonkeyDev调试
+        * [iOS逆向开发：MonkeyDev调试](https://book.crifan.org/books/ios_re_monkeydev_debug/website/)
   * iOS逆向常涉及领域
     * 如何用`Theos`/`iOSOpenDev`/`MonkeyDev`开发越狱插件，实现特定功能
       * [iOS逆向开发：越狱插件开发 crifan.org](https://book.crifan.org/books/ios_re_jailbreak_tweak/website/)
@@ -24,10 +24,10 @@
         * [iOS逆向开发：Block匿名函数 (crifan.org)](https://book.crifan.org/books/ios_re_objc_block/website/)
   * iOS逆向具体实例
     * [iOS逆向开发：YouTube逆向 (crifan.org)](https://book.crifan.org/books/ios_re_youtube_reverse/website/)
-      * 【整理Book】iOS逆向YouTube：protobuf逆向
+      * [iOS逆向YouTube：protobuf逆向](https://book.crifan.org/books/ios_re_protobuf_reverse/website/)
     * 【整理Book】iOS逆向开发：抖音逆向
 * 相关
-  * 开发语言
+  * 语言
     * 汇编
       * 通用
         * 【整理Book】底层编程语言：汇编语言asm
@@ -36,11 +36,18 @@
     * C
       * [C语言开发心得 (crifan.org)](https://book.crifan.org/books/c_lang_dev_summary/website/)
     * iOS
-      * 【整理Book】iOS开发心得
+      * [iOS开发心得](https://book.crifan.org/books/ios_dev_summary/website/)
   * 工具
     * IDA
       * [逆向利器：IDA (crifan.org)](https://book.crifan.org/books/reverse_tool_ida/website/)
     * Xcode
-      * 【整理Book】XCode开发心得
+      * [XCode开发心得](https://book.crifan.org/books/xcode_dev_summary/website/)
         * [Xcode内置调试器：LLDB (crifan.org)](https://book.crifan.org/books/xcode_debugger_lldb/website/)
         * [Xcode开发：调试心得 (crifan.org)](http://book.crifan.org/books/xcode_dev_debug_summary/website/)
+  * 代码
+    * iOS逆向改机：配合测试的app
+      * [crifan/ShowSystemInfo: iOS的app，检测并显示iOS的iPhone的系统信息](https://github.com/crifan/ShowSystemInfo)
+    * iOS正向：越狱检测
+      * [crifan/iOSJailbreakDetection: iOS的ObjC的app，实现iOS越狱检测](https://github.com/crifan/iOSJailbreakDetection)
+    * iOS逆向：反越狱检测
+      * [crifan/iOSBypassJailbreak: 越狱iOS的hook插件，实现反越狱检测](https://github.com/crifan/iOSBypassJailbreak)

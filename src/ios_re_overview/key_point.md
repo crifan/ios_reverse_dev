@@ -6,5 +6,5 @@
   * 比如 微信抢红包
 * 重点和难点
   * 用静态分析工具和动态调试，共同配合，找出要hook的类
-    * 如何用好各种静态分析工具（`otool`、`MachOView`、`IDA Pro`、`Hopper`等），如何进行动态调试（`Xcode`+`MonkeyDev`、`debugserver`+`lldb`、`frida`、`Cycript`、`Reveal`等），从而找到要分析的类和代码运行逻辑等等，才是重点和难点
+    * 如何用好各种静态分析工具（`otool`、`MachOView`、`IDA Pro`、`Hopper`等），如何进行动态调试（`Xcode`+`MonkeyDev`、`debugserver`+`lldb`、`frida`、`Cycript`、`Reveal`等），以及利用好已有的`class-dump`导出的头文件，从而找到要分析的类和代码运行逻辑等等，才是重点和难点
   * 再去写hook代码，开发出插件，实现对应的功能
