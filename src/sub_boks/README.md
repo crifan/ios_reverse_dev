@@ -16,6 +16,7 @@
   * iOS逆向常涉及领域
     * 如何用`Theos`/`iOSOpenDev`/`MonkeyDev`开发越狱插件，实现特定功能
       * [iOS逆向开发：越狱插件开发 crifan.org](https://book.crifan.org/books/ios_re_jailbreak_tweak/website/)
+        * [iOS逆向开发：iOSOpenDev开发插件 (crifan.org)](https://book.crifan.org/books/ios_re_iosopendev_tweak/website/)
     * 正向的越狱检测和逆向的反越狱检测
       * [iOS逆向开发：越狱检测和反越狱检测 (crifan.org)](https://book.crifan.org/books/ios_re_jb_detection/website/)
     * iOS底层机制和原理
