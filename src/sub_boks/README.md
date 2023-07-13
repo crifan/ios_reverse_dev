@@ -21,7 +21,7 @@
         * 工具
           * [iOS逆向开发：MonkeyDev调试](https://book.crifan.org/books/ios_re_monkeydev_debug/website/)
           * [逆向调试利器：Frida](https://book.crifan.org/books/reverse_debug_frida/website/)
-          * [Xcode内置调试器：LLDB](https://book.crifan.org/books/xcode_debugger_lldb/website/)
+          * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
           * Xcode
             * [XCode开发心得](https://book.crifan.org/books/xcode_dev_summary/website/)         
               * [Xcode开发：调试心得](http://book.crifan.org/books/xcode_dev_debug_summary/website/)
