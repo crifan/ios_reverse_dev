@@ -52,10 +52,10 @@
     * 恢复符号表
       * `restore-symbol`
     * 分析代码逻辑
-      * IDA：Functions、Strings、Imports、F5伪代码、导出全部伪代码等好用的功能和模块
+      * `IDA`：Functions、Strings、Imports、F5伪代码、导出全部伪代码等好用的功能和模块
         * ![ida_youtube](../../assets/img/ida_youtube.jpg)
-      * Hopper
-        * ![hooper_youtube](../../assets/img/hooper_youtube.jpg)
+      * `Hopper`
+        * ![hopper_youtube](../../assets/img/hopper_youtube.jpg)
 * 动态调试
   * 用各种调试方式和工具去调试app的逻辑
     * 常用调试方式

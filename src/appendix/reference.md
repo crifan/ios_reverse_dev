@@ -32,8 +32,6 @@
 * [otool 一些用途 - 简书](https://www.jianshu.com/p/fc67f95eee41)
 * [otool命令查看App动态库 - 简书](https://www.jianshu.com/p/fff5a6d73a86)
 * [iOS 逆向----otool命令入门_嵌入式_ParadiseDuo-CSDN博客](https://blog.csdn.net/youshaoduo/article/details/81097125)
-* [iOS程序逆向Mac下常用工具——Reveal、HopperDisassemble、IDA - 时间已静止 - 博客园](https://www.cnblogs.com/mddblog/p/4960505.html)
-* [Hopper Alternatives and Similar Software - AlternativeTo.net](https://alternativeto.net/software/hopper/)
 * [iOS App的加固保护原理 - 知乎](https://zhuanlan.zhihu.com/p/33109826)
 * [iOS App 安全加固方案调研 - iOS - 掘金](https://juejin.im/entry/5ccfb667f265da036d79cef2)
 * [对 iOS app 进行安全加固 - 我的学习历程](https://danleechina.github.io/ios-app-security-reinforce/)
