@@ -16,15 +16,16 @@
       * [iOS逆向开发：静态分析](https://book.crifan.org/books/ios_re_static_analysis/website/)
       * 常用静态分析工具
         * [逆向利器：IDA](https://book.crifan.org/books/reverse_tool_ida/website/)
+        * [iOS逆向工具：Hopper](https://book.crifan.org/books/ios_re_tool_hopper/website/)
     * 以及动态调试
       * [iOS逆向开发：动态调试](https://book.crifan.org/books/ios_re_dynamic_debug/website/)
-        * 工具
-          * [iOS逆向开发：MonkeyDev调试](https://book.crifan.org/books/ios_re_monkeydev_debug/website/)
-          * [逆向调试利器：Frida](https://book.crifan.org/books/reverse_debug_frida/website/)
-          * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
-          * Xcode
-            * [XCode开发心得](https://book.crifan.org/books/xcode_dev_summary/website/)         
-              * [Xcode开发：调试心得](http://book.crifan.org/books/xcode_dev_debug_summary/website/)
+        * [iOS逆向开发：MonkeyDev调试](https://book.crifan.org/books/ios_re_monkeydev_debug/website/)
+        * [逆向调试利器：Frida](https://book.crifan.org/books/reverse_debug_frida/website/)
+          * [移动端调试利器：Objection](https://book.crifan.org/books/mobile_reverse_debug_objection/website/)
+        * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
+        * Xcode
+          * [XCode开发心得](https://book.crifan.org/books/xcode_dev_summary/website/)         
+            * [Xcode开发：调试心得](http://book.crifan.org/books/xcode_dev_debug_summary/website/)
   * iOS逆向常涉及领域/子项目
     * 如何用`Theos`/`iOSOpenDev`/`MonkeyDev`开发越狱插件，实现特定功能
       * [iOS逆向开发：越狱插件开发](https://book.crifan.org/books/ios_re_jailbreak_tweak/website/)
@@ -36,10 +37,14 @@
         * [iOS逆向开发：ObjC运行时](https://book.crifan.org/books/ios_re_objc_runtime/website/)
         * [iOS逆向开发：Block匿名函数](https://book.crifan.org/books/ios_re_objc_block/website/)
     * 通用的
-      * [iOS逆向之动态调试：断点](https://book.crifan.org/books/ios_re_debug_breakpoint/website/)
+      * 断点
+        * [iOS逆向之动态调试：断点](https://book.crifan.org/books/ios_re_debug_breakpoint/website/)
+        * [可执行文件格式](https://book.crifan.org/books/executable_file_format/website/)
+          * [可执行文件格式：Mach-O](https://book.crifan.org/books/exec_file_format_macho/website/)
     * 高级逆向
       * 代码模拟
         * [CPU模拟利器：Unicorn](https://book.crifan.org/books/cpu_emulator_unicorn/website/)
+          * [反汇编利器：Capstone](https://book.crifan.org/books/ultimate_disassembler_capstone/website/)
   * iOS逆向具体实例
     * [iOS逆向开发：YouTube逆向](https://book.crifan.org/books/ios_re_youtube_reverse/website/)
       * [iOS逆向YouTube：protobuf逆向](https://book.crifan.org/books/ios_re_protobuf_reverse/website/)
