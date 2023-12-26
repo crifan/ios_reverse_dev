@@ -36,11 +36,11 @@
       * [iOS逆向开发：iOS底层机制](https://book.crifan.org/books/ios_re_ios_internal/website/)
         * [iOS逆向开发：ObjC运行时](https://book.crifan.org/books/ios_re_objc_runtime/website/)
         * [iOS逆向开发：Block匿名函数](https://book.crifan.org/books/ios_re_objc_block/website/)
+    * [iOS逆向开发：签名和权限](https://book.crifan.org/books/ios_re_codesign_ent/website/)
     * 通用的
-      * 断点
-        * [iOS逆向之动态调试：断点](https://book.crifan.org/books/ios_re_debug_breakpoint/website/)
-        * [可执行文件格式](https://book.crifan.org/books/executable_file_format/website/)
-          * [可执行文件格式：Mach-O](https://book.crifan.org/books/exec_file_format_macho/website/)
+      * [iOS逆向之动态调试：断点](https://book.crifan.org/books/ios_re_debug_breakpoint/website/)
+      * [可执行文件格式](https://book.crifan.org/books/executable_file_format/website/)
+        * [可执行文件格式：Mach-O](https://book.crifan.org/books/exec_file_format_macho/website/)
     * 高级逆向
       * 代码模拟
         * [CPU模拟利器：Unicorn](https://book.crifan.org/books/cpu_emulator_unicorn/website/)

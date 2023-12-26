@@ -1,6 +1,6 @@
 {
-  "latestVersion": "v1.6.0",
-  "lastUpdate": "20231222",
+  "latestVersion": "v1.6.1",
+  "lastUpdate": "20231226",
   "gitRepoName": "ios_reverse_dev",
   "bookName": "iOS逆向开发",
   "bookDescription": "概述iOS逆向开发的各方面内容。包括整理了iOS逆向典型流程图，iOS逆向开发领域包含哪些内容的架构图，iOS的逆向开发的典型的流程，以及逆向的重点和难点，以及一些逆向心得。且把各个独立的部分整理出子教程，包括iPhone越狱、砸壳ipa、静态分析、动态调试、MonkeyDev调试，以及一些iOS逆向常涉及的领域，比如越狱插件开发、iOSOpenDev开发插件、越狱检测和反越狱检测、iOS底层机制，其中包括ObjC运行时和Block匿名函数；以及具体的实例，包括YouTube逆向、抖音逆向，以及YouTube中包含protobuf逆向；另外整理出相关的子教程，包括IDA、汇编asm、ARM汇编、Xcode开发、Xcode调试、LLDB调试器、iOS开发、C语言开发等内容。"
