@@ -59,9 +59,19 @@
 * 动态调试
   * 用各种调试方式和工具去调试app的逻辑
     * 常用调试方式
-      * 图形界面：`Xcode`+`MonkeyDev`
-        * ![xcode_monkeydev_youtube](../../assets/img/xcode_monkeydev_youtube.jpg)
-        * Xcode内部也有`lldb`
+      * 图形界面
+        * 入门时可用：`Xcode`+`MonkeyDev`
+          * 效果
+            * ![xcode_monkeydev_youtube](../../assets/img/xcode_monkeydev_youtube.jpg)
+        * 熟练时推荐：[Xcode+iOSOpenDev](https://book.crifan.org/books/ios_re_debug_xcode_iosopendev/website/)
+          * 效果
+            * ![xcode_iosopendev_debug_ui](../../assets/img/xcode_iosopendev_debug_ui.jpg)
+          * 好处
+            * Xcode内部有（好用的）`lldb`
+            * 可以写hook代码hook函数
+            * Xcode+lldb内置对于iOS的ObjC（甚至Swift）有比较好的支持
+              * 比如：po可以查看到类的信息等等
+            * 图形化界面方便调试
       * 命令行：`debugserver`+`lldb`
         * ![debugserver_lldb_aweme](../../assets/img/debugserver_lldb_aweme.jpg)
     * 常用逆向工具

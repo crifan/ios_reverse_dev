@@ -2,7 +2,7 @@
 
 上述所有和iOS逆向开发相关的内容，分别整理到多个独立的子教程以及相关内容：
 
-* 系列
+* iOS逆向的成套教程 = 系列教程 = 子教程
   * iOS逆向基本流程
     * iOS逆向之前，先要给iOS设备越狱
       * [iOS逆向开发：iPhone越狱](https://book.crifan.org/books/ios_re_iphone_jailbreak/website/)
@@ -10,6 +10,7 @@
         * [iOS逆向：iOS15越狱](https://book.crifan.org/books/ios_re_ios15_jailbreak/website/)
       * 越狱后，常会涉及到
         * [iOS逆向开发：越狱包管理器](https://book.crifan.org/books/ios_re_package_manager/website/)
+        * [iOS逆向：安装app和插件](https://book.crifan.org/books/ios_re_install_app_tweak/website/)
     * 然后再去砸壳出ipa文件
       * [iOS逆向开发：砸壳ipa](https://book.crifan.org/books/ios_re_crack_shell_ipa/website/)
     * 然后再去静态分析
@@ -23,28 +24,43 @@
         * [逆向调试利器：Frida](https://book.crifan.org/books/reverse_debug_frida/website/)
           * [移动端调试利器：Objection](https://book.crifan.org/books/mobile_reverse_debug_objection/website/)
         * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
+          * [iOS逆向调试：debugserver+lldb](https://book.crifan.org/books/ios_re_debug_debugserver_lldb/website)
         * Xcode
           * [XCode开发心得](https://book.crifan.org/books/xcode_dev_summary/website/)         
             * [Xcode开发：调试心得](http://book.crifan.org/books/xcode_dev_debug_summary/website/)
+        * 推荐：[iOS逆向调试：Xcode+iOSOpenDev](https://book.crifan.org/books/ios_re_debug_xcode_iosopendev/website/)
   * iOS逆向常涉及领域/子项目
-    * 如何用`Theos`/`iOSOpenDev`/`MonkeyDev`开发越狱插件，实现特定功能
-      * [iOS逆向开发：越狱插件开发](https://book.crifan.org/books/ios_re_jailbreak_tweak/website/)
-        * [iOS逆向开发：iOSOpenDev开发插件](https://book.crifan.org/books/ios_re_iosopendev_tweak/website/)
-    * 正向的越狱检测和逆向的反越狱检测
-      * [iOS逆向开发：越狱检测和反越狱检测](https://book.crifan.org/books/ios_re_jb_detection/website/)
+    * 插件
+      * 常用插件
+        * [iOS越狱开发：常用越狱插件](https://book.crifan.org/books/ios_re_common_tweak/website)
+      * 插件开发：如何用`Theos`/`iOSOpenDev`/`MonkeyDev`开发越狱插件，实现特定功能
+        * [iOS逆向开发：越狱插件开发](https://book.crifan.org/books/ios_re_jailbreak_tweak/website/)
+          * [iOS逆向开发：iOSOpenDev开发插件](https://book.crifan.org/books/ios_re_iosopendev_tweak/website/)
+    * 符号表
+      * [iOS逆向分析：恢复符号表](https://book.crifan.org/books/ios_re_restore_symbol/website)
     * iOS底层机制和原理
       * [iOS逆向开发：iOS底层机制](https://book.crifan.org/books/ios_re_ios_internal/website/)
         * [iOS逆向开发：ObjC运行时](https://book.crifan.org/books/ios_re_objc_runtime/website/)
         * [iOS逆向开发：Block匿名函数](https://book.crifan.org/books/ios_re_objc_block/website/)
-    * [iOS逆向开发：签名和权限](https://book.crifan.org/books/ios_re_codesign_ent/website/)
-    * 通用的
+    * 正向的越狱检测和逆向的反越狱检测
+      * [iOS逆向开发：越狱检测和反越狱检测](https://book.crifan.org/books/ios_re_jb_detection/website/)
+    * 签名和权限
+      * [iOS逆向开发：签名和权限](https://book.crifan.org/books/ios_re_codesign_ent/website/)
+    * 断点
       * [iOS逆向之动态调试：断点](https://book.crifan.org/books/ios_re_debug_breakpoint/website/)
+    * 文件格式
       * [可执行文件格式](https://book.crifan.org/books/executable_file_format/website/)
         * [可执行文件格式：Mach-O](https://book.crifan.org/books/exec_file_format_macho/website/)
+    * 心得
+      * [iOS逆向：心得集锦](https://book.crifan.org/books/ios_re_experience_collection/website)
+    * 举例
+      * [iOS逆向：举例详解](https://book.crifan.org/books/ios_re_detail_example/website)
     * 高级逆向
       * 代码模拟
         * [CPU模拟利器：Unicorn](https://book.crifan.org/books/cpu_emulator_unicorn/website/)
           * [反汇编利器：Capstone](https://book.crifan.org/books/ultimate_disassembler_capstone/website/)
+      * Swift
+        * [iOS逆向：Swift逆向](https://book.crifan.org/books/ios_re_swift_reverse/website)
   * iOS逆向具体实例
     * [iOS逆向开发：YouTube逆向](https://book.crifan.org/books/ios_re_youtube_reverse/website/)
       * [iOS逆向YouTube：protobuf逆向](https://book.crifan.org/books/ios_re_protobuf_reverse/website/)
