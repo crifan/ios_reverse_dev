@@ -42,6 +42,7 @@
       * [iOS逆向开发：iOS底层机制](https://book.crifan.org/books/ios_re_ios_internal/website/)
         * [iOS逆向开发：ObjC运行时](https://book.crifan.org/books/ios_re_objc_runtime/website/)
         * [iOS逆向开发：Block匿名函数](https://book.crifan.org/books/ios_re_objc_block/website/)
+        * [iOS逆向：Framework动态库](https://book.crifan.org/books/ios_re_framework_dylib/website/)
     * 正向的越狱检测和逆向的反越狱检测
       * [iOS逆向开发：越狱检测和反越狱检测](https://book.crifan.org/books/ios_re_jb_detection/website/)
     * 签名和权限
