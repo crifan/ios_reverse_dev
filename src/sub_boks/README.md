@@ -12,7 +12,7 @@
         * 包管理器
           * [iOS逆向开发：越狱包管理器](https://book.crifan.org/books/ios_re_package_manager/website/)
         * 插件
-          * [iOS逆向：安装app和插件](https://book.crifan.org/books/ios_re_install_app_tweak/website/)
+          * [iOS逆向：管理app和插件](https://book.crifan.org/books/ios_re_manage_app_tweak/website/)
             * [iOS越狱开发：常用越狱插件](https://book.crifan.org/books/ios_re_common_tweak/website)
     * 然后再去砸壳出ipa文件
       * [iOS逆向开发：砸壳ipa](https://book.crifan.org/books/ios_re_crack_shell_ipa/website/)
@@ -79,7 +79,7 @@
   * 语言
     * 汇编
       * 通用
-        * 【整理Book】底层编程语言：汇编语言asm
+        * [底层编程语言：汇编语言asm](https://book.crifan.org/books/low_level_assembly_asm/website/)
       * ARM
         * [最流行汇编语言：ARM crifan.org](https://book.crifan.org/books/popular_assembly_arm/website/)
     * C
@@ -89,37 +89,49 @@
   * 代码
     * iOS正向
       * 越狱检测
-        * [crifan/iOSJailbreakDetection: iOS的ObjC的app，实现iOS越狱检测](https://github.com/crifan/iOSJailbreakDetection)
+        * https://github.com/crifan/iOSJailbreakDetection
       * 配合测试(iOS逆向改机)的app
-        * [crifan/ShowSystemInfo: iOS的app，检测并显示iOS的iPhone的系统信息](https://github.com/crifan/ShowSystemInfo)
+        * https://github.com/crifan/ShowSystemInfo
     * iOS逆向
       * 反越狱检测
-        * [crifan/iOSBypassJailbreak: 越狱iOS的hook插件，实现反越狱检测](https://github.com/crifan/iOSBypassJailbreak)
+        * https://github.com/crifan/iOSBypassJailbreak
+      * Mach-O二进制分析
+        * IDA
+          * IDA脚本的工具类
+            * https://github.com/crifan/crifanLibPythonIDA
+          * IDA脚本的项目模板
+            * https://github.com/crifan/crifanIDAPluginTemplate
+          * IDA插件
+            * 恢复iOS的ObjC的Block符号表
+              * https://github.com/crifan/restore-symbol/blob/master/tools/IDAScripts/search_oc_block/ida_search_block.py
+            * 更新iOS的Swift的函数名
+              * https://github.com/crifan/dsdump/blob/main/tools/IDA_Plugins/updateSwiftMethods/updateSwiftMethods.py
+            * 自动给函数符号重命名
+              * https://github.com/crifan/AutoRename
+          * 导出全部IDA的符号表
+            * https://github.com/crifan/restore-symbol/blob/master/tools/IDAScripts/export_ida_symbol/exportIDASymbol.py
       * 导出头文件
         * crifan优化后的dsdump
           * https://github.com/crifan/dsdump
       * 符号表相关
         * crifan优化后的restore-symbol
           * https://github.com/crifan/restore-symbol/
-        * IDA插件
-          * 自动给函数符号重命名
-            * [crifan/AutoRename: IDA plugin for auto rename symbol](https://github.com/crifan/AutoRename)
         * （iOS逆向期间，更新符号表后，自动化实现）自动打包ipa（的全套手动流程）
-          * [crifan/AutoRepackIpa: Auto repack ipa](https://github.com/crifan/AutoRepackIpa)
+          * https://github.com/crifan/AutoRepackIpa
       * 动态调试
         * Frida
           * Frida的工具类
-            * [crifan/JsFridaUtil: JS and Frida Util functions](https://github.com/crifan/JsFridaUtil/)
+            * https://github.com/crifan/JsFridaUtil/
           * 用Frida去hook调试的模板项目
-            * [crifan/FridaHookTemplate: Frida Hook Template for Android's Java/Native and iOS's ObjC/Native functions](https://github.com/crifan/FridaHookTemplate)
+            * https://github.com/crifan/FridaHookTemplate
         * iOSOpenDev去hook调试的模板项目
-          * [crifan/iOSOpenDevHookTemplate: Crifan's iOSOpenDev Hook Template, for common iOS ObjC Class, native C functions, other misc](https://github.com/crifan/iOSOpenDevHookTemplate)
+          * https://github.com/crifan/iOSOpenDevHookTemplate
         * 高级调试
           * Unicorn模拟代码运行的模板项目
-            * [crifan/UnicornEmulateTemplate: Unicorn Emulate Template](https://github.com/crifan/UnicornEmulateTemplate)
+            * https://github.com/crifan/UnicornEmulateTemplate
       * 举例
         * 逆向YouTube
-          * [crifan/iOSYouTubeAdsFilter: MonkeyDev+Xcode项目，iOS逆向YouTube，尝试实现广告过滤功能](https://github.com/crifan/iOSYouTubeAdsFilter)
+          * https://github.com/crifan/iOSYouTubeAdsFilter
       * 工具汇总
         * iOS逆向的各种工具集锦
-          * [crifan/iOSReverseTools: iOS Reverse Tools](https://github.com/crifan/iOSReverseTools)
+          * https://github.com/crifan/iOSReverseTools
