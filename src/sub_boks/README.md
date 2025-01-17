@@ -95,6 +95,8 @@
     * iOS逆向
       * 反越狱检测
         * https://github.com/crifan/iOSBypassJailbreak
+      * ipa分析
+        * https://github.com/crifan/ios-ipa-parser
       * Mach-O二进制分析
         * IDA
           * IDA脚本的工具类
