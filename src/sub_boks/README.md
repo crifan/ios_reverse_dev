@@ -81,7 +81,7 @@
       * 通用
         * [底层编程语言：汇编语言asm](https://book.crifan.org/books/low_level_assembly_asm/website/)
       * ARM
-        * [最流行汇编语言：ARM crifan.org](https://book.crifan.org/books/popular_assembly_arm/website/)
+        * [最流行汇编语言：ARM](https://book.crifan.org/books/popular_assembly_arm/website/)
     * C
       * [C语言开发心得](https://book.crifan.org/books/c_lang_dev_summary/website/)
     * iOS
