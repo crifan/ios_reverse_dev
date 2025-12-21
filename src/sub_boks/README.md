@@ -30,6 +30,10 @@
           * [iOS逆向开发：MonkeyDev调试](https://book.crifan.org/books/ios_re_monkeydev_debug/website/)
           * [逆向调试利器：Frida](https://book.crifan.org/books/reverse_debug_frida/website/)
             * [Frida逆向实例和工具函数](https://book.crifan.org/books/frida_re_example_function/website/)
+              * Frida调试
+                * [Frida调试经验总结](https://book.crifan.org/books/frida_debug_summary/website/)
+                  * [Frida调试iOS经验总结](https://book.crifan.org/books/frida_debug_ios_summary/website/)
+                * [Frida高级调试：Stalker](https://book.crifan.org/books/frida_advanced_debug_stalker/website/)
             * [移动端调试利器：Objection](https://book.crifan.org/books/mobile_reverse_debug_objection/website/)
           * [主流调试器：LLDB](https://book.crifan.org/books/popular_debugger_lldb/website/)
             * [iOS逆向调试：debugserver+lldb](https://book.crifan.org/books/ios_re_debug_debugserver_lldb/website)
@@ -47,7 +51,11 @@
         * 高级调试
           * 代码模拟
             * [CPU模拟利器：Unicorn](https://book.crifan.org/books/cpu_emulator_unicorn/website/)
-              * [反汇编利器：Capstone](https://book.crifan.org/books/ultimate_disassembler_capstone/website/)
+              * 涉及
+                * [反汇编利器：Capstone](https://book.crifan.org/books/ultimate_disassembler_capstone/website/)
+          * 代码混淆
+            * [高级逆向：混淆和反混淆](https://book.crifan.org/books/adv_re_obf_deobf/website/)
+              * [移动端逆向：代码混淆和反代码混淆](https://book.crifan.org/books/mobile_re_obfuscation_anti/website/)
   * iOS逆向常涉及领域/子项目
     * 插件
       * 插件开发：如何用`Theos`/`iOSOpenDev`等开发越狱插件，实现特定功能
@@ -60,11 +68,15 @@
         * [iOS逆向开发：dyld动态链接](https://book.crifan.org/books/ios_re_dyld_link/website/)
         * [iOS逆向：Framework动态库](https://book.crifan.org/books/ios_re_framework_dylib/website/)
         * [iOS逆向：Apple操作系统](https://book.crifan.org/books/ios_re_apple_os/website/)
+        * [iOS逆向：Mach消息和XPC进程通信](https://book.crifan.org/books/ios_re_mach_xpc/website/)
     * 正向的越狱检测和逆向的反越狱检测
       * [iOS逆向开发：越狱检测和反越狱检测](https://book.crifan.org/books/ios_re_jb_detection/website/)
     * 文件格式
       * [可执行文件格式](https://book.crifan.org/books/executable_file_format/website/)
         * [可执行文件格式：Mach-O](https://book.crifan.org/books/exec_file_format_macho/website/)
+    * 数据（传输）格式
+      * Protobuf
+        * [移动端逆向：通用数据格式Protobuf](https://book.crifan.org/books/mobile_re_format_protobuf/website/)
     * 心得
       * [iOS逆向：心得集锦](https://book.crifan.org/books/ios_re_experience_collection/website)
     * 举例
@@ -73,7 +85,6 @@
       * [iOS逆向：Swift逆向](https://book.crifan.org/books/ios_re_swift_reverse/website)
   * iOS逆向具体实例
     * [iOS逆向开发：YouTube逆向](https://book.crifan.org/books/ios_re_youtube_reverse/website/)
-      * [iOS逆向YouTube：protobuf逆向](https://book.crifan.org/books/ios_re_protobuf_reverse/website/)
     * 【整理Book】iOS逆向开发：抖音逆向
 * 相关
   * 语言
@@ -86,6 +97,9 @@
       * [C语言开发心得](https://book.crifan.org/books/c_lang_dev_summary/website/)
     * iOS
       * [iOS开发心得](https://book.crifan.org/books/ios_dev_summary/website/)
+  * 抓包
+    * [Charles](https://book.crifan.org/books/app_capture_package_tool_charles/website/)
+    * [移动端逆向：绕过抓包限制](https://book.crifan.org/books/mobile_re_capture_bypass_limit/website/)
   * 代码
     * iOS正向
       * 越狱检测
