@@ -126,6 +126,8 @@
               * https://github.com/crifan/AutoRename
             * 导出全部IDA的符号表
               * https://github.com/crifan/restore-symbol/blob/master/tools/IDAScripts/export_ida_symbol/exportIDASymbol.py
+            * 导出全部伪代码
+              * https://github.com/crifan/idaExportAllCode/
       * 导出头文件
         * crifan优化后的dsdump
           * https://github.com/crifan/dsdump
